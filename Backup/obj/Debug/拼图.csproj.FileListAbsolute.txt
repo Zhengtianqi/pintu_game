@@ -1,0 +1,4 @@
+C:\Users\27049\Desktop\拼图\Backup\obj\Debug\拼图.csprojResolveAssemblyReference.cache
+C:\Users\27049\Desktop\拼图\Backup\obj\Debug\拼图.Form1.resources
+C:\Users\27049\Desktop\拼图\Backup\obj\Debug\拼图.Properties.Resources.resources
+C:\Users\27049\Desktop\拼图\Backup\obj\Debug\拼图.csproj.GenerateResource.Cache
